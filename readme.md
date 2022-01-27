@@ -26,7 +26,7 @@ From a shell on your Raspberry Pi:
 
 ```
 cd ~/klipper_config
-git clone https://github.com/jon-harper/clockmaker-klipper config
+git clone https://github.com/jon-harper/clockmaker-klipper-config config
 ```
 
 Modify your `printer.cfg` so that it looks like this:
