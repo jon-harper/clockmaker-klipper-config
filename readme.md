@@ -8,9 +8,10 @@ This repository contains a ready-to-go Klipper configuration for a modified Ende
 - MCU: BIGTREETECH SKR 2.0 Rev B
 - Drivers: TMC2209
 - Hotend: MicroSwiss All-Metal Hotend or clone
+- Extruder: Dual-gear clone
 - Build Volume: 220x220x300mm
-- Display: 
-- Lights: 
+- Display: Creality stock 12984 display
+- Lights: None (*in progress*)
 - Steppers: Stock Creality
 - Fans:
   - Hotend fan (24V)
